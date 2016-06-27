@@ -1,4 +1,5 @@
-# laravel-geographic-search
+# Laravel Geographic Search Model
+
 Return results from the given coordinates latitude and longitude
 
 How to use this model?
